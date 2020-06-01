@@ -1,5 +1,11 @@
 #!/bin/sh
 
+check_root() {
 
+}
+
+epitaph() {
+    
+}
 
 # Future Lab - 2020
